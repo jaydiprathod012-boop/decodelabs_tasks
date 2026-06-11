@@ -65,6 +65,6 @@ decodelabs_tasks/
 ---
 
 ## 👤 Author
-- **Intern Name:** [Your Name]
+- **Intern Name:** JAYDIP RATHOD
 - **Batch:** 2026
 - **Organization:** DecodeLabs
