@@ -6,7 +6,7 @@ This repository contains all project submissions for the DecodeLabs Data Analyti
 
 ## 📁 Repository Structure
 
-```
+```..
 decodelabs_tasks/
 ├── Project1_Data_Cleaning/
 │   ├── README.md
